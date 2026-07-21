@@ -1,0 +1,22 @@
+# Secrets and credentials
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+.env.*
+secrets.*
+credentials.*
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
